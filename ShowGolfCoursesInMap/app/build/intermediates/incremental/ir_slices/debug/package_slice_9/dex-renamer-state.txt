@@ -1,0 +1,4 @@
+#Mon Jun 03 15:40:24 EEST 2019
+base.0=D\:\\android-exercises\\ShowGolfCoursesInMap\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex

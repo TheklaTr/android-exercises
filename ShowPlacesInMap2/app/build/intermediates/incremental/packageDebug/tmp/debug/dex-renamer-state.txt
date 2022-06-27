@@ -1,0 +1,7 @@
+#Wed Jun 12 19:37:42 EEST 2019
+base.0=D\:\\android-exercises\\ShowPlacesInMap2\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\android-exercises\\ShowPlacesInMap2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out

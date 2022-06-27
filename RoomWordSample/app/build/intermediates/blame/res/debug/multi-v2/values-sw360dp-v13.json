@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\android-exercises\\RoomWordSample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hientran\\.gradle\\caches\\transforms-2\\files-2.1\\dfdd15f5e9db0a80dc30a5dc9ee19969\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,109",
+                        "endColumns": "53,60",
+                        "endOffsets": "104,165"
+                    }
+                }
+            ]
+        }
+    ]
+}

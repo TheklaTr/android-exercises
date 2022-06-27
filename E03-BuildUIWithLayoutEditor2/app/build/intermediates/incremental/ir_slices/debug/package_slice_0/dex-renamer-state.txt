@@ -1,0 +1,4 @@
+#Fri May 17 20:39:08 EEST 2019
+base.0=D\:\\android-exercises\\BuildUIWithLayoutEditor2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,4 @@
+#Wed May 22 13:58:08 EEST 2019
+base.0=D\:\\android-exercises\\AdaptiveUIExercise\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex

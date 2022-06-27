@@ -1,0 +1,7 @@
+#Fri Jun 14 23:52:12 EEST 2019
+base.0=D\:\\android-exercises\\GolfApplication\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\android-exercises\\GolfApplication\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out

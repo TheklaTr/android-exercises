@@ -1,0 +1,242 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:2:1-48:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\0725859da07d328bc6546e84761ae982\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\f2aacead8f993c3d08a2283bc591a229\AndroidManifest.xml:17:1-38:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\c8411083142231fbdbb504173cfcf160\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\6f6f2e62fb497ea91132a8d2f3424fcb\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\75cfd6e6d13ef02c8a1af1dc5688e656\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\ae3b497392a0c3d213c6a7645b5c1e77\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\5219e44cba5466ec165810d37492ab6a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\bf0a7b6f13f5135486a740c552f277a6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\bfff3d1d7571dd1b8bccc44d7c5a9916\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\6d0fb82b1e4d27fecd2617ae029553ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\1ddfee474f77b7c238f25faaf5eb14e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\e7daafc60509400e2570d8766e3ff78d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\d9185b590442ebca4bd1267be50e42b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\8057b82b5954d6ce58fb771ac1102768\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\6be9a76ff69b4c9179c502626a344d70\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\79f7e052abaaabe093516a7c1e89f893\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\809aec3fea26a7ca5aacdf38df639f09\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\fd40c70faeedf16f386b47bb0c910c18\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\dde4b265e8d1cea85f56fc1b140bf2d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\ce7948036794deda5f3562ab27d91d7a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\336de54b13580a8a82639de94cba8ee6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\0f192d1b6265fa9455356086ee1056c4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\44f00165af09b833c632478171f5f042\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\24fe5b4b7522bcd8777670619492f0bf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\a99d7db8941990fcf6a352c39c5fc815\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\446ff517e31d5f1d5e2206f15fcb3b33\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\911ebfca11485228717d87c06bd5772e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\5762c3480ebbdb0c3b021eb8c4d72ac7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\d4b2e8684e47560d33ef799c5133c19d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\2731ec8ac08b1c04bc6bf3824caec95b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\f8c833b15fccae49f257de4fd2baf061\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\c6027a39e19779ced408167e19ee7173\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\a53cf98dbadc38832649162f4fdb057d\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:3:11-43
+		INJECTED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml
+		ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:2:1-48:12
+		INJECTED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml
+		ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:2:1-48:12
+		INJECTED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:11:22-76
+application
+ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:13:5-46:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\f2aacead8f993c3d08a2283bc591a229\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\f2aacead8f993c3d08a2283bc591a229\AndroidManifest.xml:30:5-36:19
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\c8411083142231fbdbb504173cfcf160\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\c8411083142231fbdbb504173cfcf160\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\6f6f2e62fb497ea91132a8d2f3424fcb\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\6f6f2e62fb497ea91132a8d2f3424fcb\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\75cfd6e6d13ef02c8a1af1dc5688e656\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\75cfd6e6d13ef02c8a1af1dc5688e656\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\ae3b497392a0c3d213c6a7645b5c1e77\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\ae3b497392a0c3d213c6a7645b5c1e77\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\5219e44cba5466ec165810d37492ab6a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\5219e44cba5466ec165810d37492ab6a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\336de54b13580a8a82639de94cba8ee6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\336de54b13580a8a82639de94cba8ee6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\0f192d1b6265fa9455356086ee1056c4\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\0f192d1b6265fa9455356086ee1056c4\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\44f00165af09b833c632478171f5f042\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\44f00165af09b833c632478171f5f042\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\0f192d1b6265fa9455356086ee1056c4\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:18:13-39
+	android:label
+		ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:16:13-45
+	android:roundIcon
+		ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:17:13-58
+	android:icon
+		ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:15:13-47
+	android:allowBackup
+		ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:14:13-39
+	android:theme
+		ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:19:13-44
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:29:9-31:58
+	android:value
+		ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:31:17-56
+	android:name
+		ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:30:17-62
+activity#hien.t.showplacesinmap.MapsActivity
+ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:33:9-41:20
+	android:label
+		ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:35:17-60
+	android:name
+		ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:34:17-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:37:17-68
+	android:name
+		ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:39:27-74
+uses-library#org.apache.http.legacy
+ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:43:9-45:44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\f2aacead8f993c3d08a2283bc591a229\AndroidManifest.xml:33:9-35:40
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\f2aacead8f993c3d08a2283bc591a229\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:45:17-41
+	android:name
+		ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml:44:17-54
+uses-sdk
+INJECTED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml
+INJECTED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\0725859da07d328bc6546e84761ae982\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\0725859da07d328bc6546e84761ae982\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\f2aacead8f993c3d08a2283bc591a229\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\f2aacead8f993c3d08a2283bc591a229\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\c8411083142231fbdbb504173cfcf160\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\c8411083142231fbdbb504173cfcf160\AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\6f6f2e62fb497ea91132a8d2f3424fcb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\6f6f2e62fb497ea91132a8d2f3424fcb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\75cfd6e6d13ef02c8a1af1dc5688e656\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\75cfd6e6d13ef02c8a1af1dc5688e656\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\ae3b497392a0c3d213c6a7645b5c1e77\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\ae3b497392a0c3d213c6a7645b5c1e77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\5219e44cba5466ec165810d37492ab6a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\5219e44cba5466ec165810d37492ab6a\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\bf0a7b6f13f5135486a740c552f277a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\bf0a7b6f13f5135486a740c552f277a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\bfff3d1d7571dd1b8bccc44d7c5a9916\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\bfff3d1d7571dd1b8bccc44d7c5a9916\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\6d0fb82b1e4d27fecd2617ae029553ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\6d0fb82b1e4d27fecd2617ae029553ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\1ddfee474f77b7c238f25faaf5eb14e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\1ddfee474f77b7c238f25faaf5eb14e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\e7daafc60509400e2570d8766e3ff78d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\e7daafc60509400e2570d8766e3ff78d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\d9185b590442ebca4bd1267be50e42b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\d9185b590442ebca4bd1267be50e42b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\8057b82b5954d6ce58fb771ac1102768\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\8057b82b5954d6ce58fb771ac1102768\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\6be9a76ff69b4c9179c502626a344d70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\6be9a76ff69b4c9179c502626a344d70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\79f7e052abaaabe093516a7c1e89f893\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\79f7e052abaaabe093516a7c1e89f893\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\809aec3fea26a7ca5aacdf38df639f09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\809aec3fea26a7ca5aacdf38df639f09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\fd40c70faeedf16f386b47bb0c910c18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\fd40c70faeedf16f386b47bb0c910c18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\dde4b265e8d1cea85f56fc1b140bf2d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\dde4b265e8d1cea85f56fc1b140bf2d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\ce7948036794deda5f3562ab27d91d7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\ce7948036794deda5f3562ab27d91d7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\336de54b13580a8a82639de94cba8ee6\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\336de54b13580a8a82639de94cba8ee6\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\0f192d1b6265fa9455356086ee1056c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\0f192d1b6265fa9455356086ee1056c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\44f00165af09b833c632478171f5f042\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\44f00165af09b833c632478171f5f042\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\24fe5b4b7522bcd8777670619492f0bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\24fe5b4b7522bcd8777670619492f0bf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\a99d7db8941990fcf6a352c39c5fc815\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\a99d7db8941990fcf6a352c39c5fc815\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\446ff517e31d5f1d5e2206f15fcb3b33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\446ff517e31d5f1d5e2206f15fcb3b33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\911ebfca11485228717d87c06bd5772e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\911ebfca11485228717d87c06bd5772e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\5762c3480ebbdb0c3b021eb8c4d72ac7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\5762c3480ebbdb0c3b021eb8c4d72ac7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\d4b2e8684e47560d33ef799c5133c19d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\d4b2e8684e47560d33ef799c5133c19d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\2731ec8ac08b1c04bc6bf3824caec95b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\2731ec8ac08b1c04bc6bf3824caec95b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\f8c833b15fccae49f257de4fd2baf061\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\f8c833b15fccae49f257de4fd2baf061\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\c6027a39e19779ced408167e19ee7173\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\c6027a39e19779ced408167e19ee7173\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\a53cf98dbadc38832649162f4fdb057d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\a53cf98dbadc38832649162f4fdb057d\AndroidManifest.xml:20:5-44
+INJECTED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml
+INJECTED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\5219e44cba5466ec165810d37492ab6a\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml
+		ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml
+		ADDED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ShowPlacesInMap\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\f2aacead8f993c3d08a2283bc591a229\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\f2aacead8f993c3d08a2283bc591a229\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\f2aacead8f993c3d08a2283bc591a229\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\f2aacead8f993c3d08a2283bc591a229\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\f2aacead8f993c3d08a2283bc591a229\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\f2aacead8f993c3d08a2283bc591a229\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\f2aacead8f993c3d08a2283bc591a229\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\6f6f2e62fb497ea91132a8d2f3424fcb\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\6f6f2e62fb497ea91132a8d2f3424fcb\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\6f6f2e62fb497ea91132a8d2f3424fcb\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\6f6f2e62fb497ea91132a8d2f3424fcb\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\ae3b497392a0c3d213c6a7645b5c1e77\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\ae3b497392a0c3d213c6a7645b5c1e77\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\ae3b497392a0c3d213c6a7645b5c1e77\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\5219e44cba5466ec165810d37492ab6a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\336de54b13580a8a82639de94cba8ee6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\336de54b13580a8a82639de94cba8ee6\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\5219e44cba5466ec165810d37492ab6a\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\hientran\.gradle\caches\transforms-2\files-2.1\5219e44cba5466ec165810d37492ab6a\AndroidManifest.xml:27:13-51
