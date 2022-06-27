@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Golf Application</string>
+    <string name="course_name_txt">Course name</string>
+    <string name="address_txt">Address</string>
+    <string name="phone_txt">Phone</string>
+    <string name="email_txt">Email</string>
+    <string name="web_launch">Go to webpage</string>
+    <string name="map_launch">Go to Google Map</string>
+    <string name="map_api_launch"><u>Google Map</u></string>
+    <string name="web"><u>Website</u></string>
+</resources>

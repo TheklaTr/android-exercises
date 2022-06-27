@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Employees Fragments App</string>
+    <string name="fullname_text">%1$s %2$s</string>
+    <string name="title_text">%1$s</string>
+    <string name="email_text">%1$s</string>
+    <string name="phone_text">%1$s</string>
+    <string name="department_text">%1$s</string>
+    <string name="image_url">%1$s</string>
+    <string name="info_text">Testing...</string>
+</resources>
